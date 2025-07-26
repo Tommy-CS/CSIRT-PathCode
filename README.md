@@ -55,5 +55,3 @@ Using the **NIST Cybersecurity Framework**, I broke down how the Capital One bre
 ## Reflections
 This lab showed me how tools like **Catalyst** help centralize documentation, making it easier to track progress and stay organized during an incident. Adding real IOCs, verifying them with VirusTotal, and writing actionable Lessons Learned felt like an intro to real SOC workflows.
 
----
-
