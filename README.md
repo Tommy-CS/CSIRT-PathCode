@@ -15,7 +15,7 @@ The goal of this project was to simulate real-world incident response by:
 - VirusTotal
 
 ## Screenshots
-#### Splunk Log Analysis:
+#### PathCode splunk log analysis (finding the malicious IP, file, etc.):
 <img src="https://github.com/user-attachments/assets/d6d42034-b3d8-43c9-ab31-f924a69deb84" width="600"/>
 
 ---
