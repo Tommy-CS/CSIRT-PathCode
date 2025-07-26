@@ -1,5 +1,5 @@
 # CSIRT: PathCode
-This project investigates Capital One's 2019 data breach. It also uses Splunk to detect and explore a malware attack, and then uses Catalyst to document the response to the attack.
+This project investigates Capital One's 2019 data breach. It also uses Splunk to detect and explore a malware attack from PathCode, and then uses Catalyst to document the response to the attack.
 
 ## Overview
 The goal of this project was to simulate real-world incident response by:
